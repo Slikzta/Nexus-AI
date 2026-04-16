@@ -1,0 +1,5 @@
+{
+  "name": "Nexus AI",
+  "description": "A versatile AI companion and agent platform. Designate your model's persona, switch between specialized agents, and experience a highly interactive AI companion.",
+  "requestFramePermissions": ["microphone"]
+}
